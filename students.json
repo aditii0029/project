@@ -1,0 +1,13 @@
+{
+ "id": 1,
+ "name": "Rahul",
+ "course": "Python",
+ "marks": 85
+},
+
+{
+ "id": 2,
+ "name": "Riya",
+ "course": "FastAPI",
+ "marks": 90
+}

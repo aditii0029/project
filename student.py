@@ -22,7 +22,7 @@ def create():
 
 
 def calculate():
-        average = 85+90/2
+        average = ('marks'+'marks')/2
         print(average)
         return {"Message": "This is the Average Marks of Both the Students"}
     

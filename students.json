@@ -11,3 +11,55 @@
  "course": "FastAPI",
  "marks": 90
 }
+{
+ "id": 3,
+ "name": "Akash",
+ "course": "Python",
+ "marks": 85
+},
+
+{
+ "id": 4,
+ "name": "Nita",
+ "course": "FastAPI",
+ "marks": 90
+}
+{
+ "id": 5,
+ "name": "Sumit",
+ "course": "Python",
+ "marks": 85
+},
+
+{
+ "id": 6,
+ "name": "Priya",
+ "course": "FastAPI",
+ "marks": 90
+}
+{
+ "id": 7,
+ "name": "Rahul",
+ "course": "Python",
+ "marks": 85
+},
+
+{
+ "id": 8,
+ "name": "Amit",
+ "course": "FastAPI",
+ "marks": 90
+}
+{
+ "id": 9,
+ "name": "Sohan",
+ "course": "Python",
+ "marks": 85
+},
+
+{
+ "id": 10,
+ "name": "Alice",
+ "course": "FastAPI",
+ "marks": 90
+}
